@@ -1,6 +1,6 @@
-<h1 align="center">Modelling supplementary material for <a href="https://www.biorxiv.org/content/10.1101/2022.08.15.503737v1" target="_blank">Liska et al. manuscript "Principles of metabolome conservation in animals"</a>.</h1>
+<h1 align="center">Modelling supplementary material for Liska et al. manuscript "Principles of metabolome conservation in animals".</h1>
 
-This repository contains the simulation results, extra-analysis scripts and the modelling framework from Liska et al. manuscript "Principles of metabolome conservation in animals".
+This repository contains the simulation results, extra-analysis scripts and the modelling framework from <a href="https://www.biorxiv.org/content/10.1101/2022.08.15.503737v1" target="_blank">Liska et al. manuscript "Principles of metabolome conservation in animals"</a>.
 - `DataS2` contains the dataset and scripts for the calculation of the effect of biological replicates noise on the estimation of metabolic abundance evolution rates;
 - `DataS3` contains all the simulation results;
 - `ScriptS1` contains the modelling framework;
