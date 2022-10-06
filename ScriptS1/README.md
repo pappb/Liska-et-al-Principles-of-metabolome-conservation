@@ -1,3 +1,3 @@
-The simulation code of MetEvolSim with a full documentation are also available here: https://github.com/charlesrocabert/MetEvolSim, also as a Python package: https://pypi.org/project/MetEvolSim/.
+The modelling framework with a full documentation and installation instructions is primarily available here: https://github.com/charlesrocabert/MetEvolSim/.
 
-Do not hesitate to contact <a href="mailto:charles[DOT]rocabert[AT]helsinki[DOT]fi">Charles Rocabert</a> if you plan to use the modeling framework.
+Do not hesitate to contact the authors if you plan to use the modelling framework for research purpose.
